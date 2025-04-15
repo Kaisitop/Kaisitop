@@ -5,6 +5,7 @@ Soy estudiante de Ingenieria en Software apasionado por construir soluciones ele
 ## 🚀 Tecnologías que manejo
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)
 
