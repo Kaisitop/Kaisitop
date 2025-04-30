@@ -13,11 +13,13 @@ Soy estudiante de Ingenieria en Software apasionado por construir soluciones ele
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| [⚙️ PokeDex API]([https://github.com/Kaisitop/Autenticacion](https://github.com/Kaisitop/Pokeapi)) | Aplicación fullstack que consume datos de la API de Pokémon y presenta una Pokédex moderna con búsqueda, carga dinámica y vistas detalladas.| Django Rest Framework, Django, React, Tailwind |
 | [📒 Gestion de Inventario](https://github.com/Kaisitop/invDjango) | Sistema de control de inventario. | Django, PostgreSQL |
 | [📒 Gestion de Inventario](https://github.com/Kaisitop/prueba) | Sistema de control de inventario con borrado Logico. | Django, PostgreSQL |
 | [📒 Gestion de Inventario](https://github.com/Kaisitop/Proyecto1) | Backend de gestion de inventario,autenticacion, roles, borrado logico | React, Node.js, MongoDB |
 | [⚙️ API Autenticacion](https://github.com/Kaisitop/Autenticacion) | API Autenticacion desarrolada mediante Django Rest Framework. | Django Rest Framework, SQLite |
 | [⚙️ API Autenticacion](https://github.com/Kaisitop/autenticacionjs) | API autenticacion con validaciones con Zod| express, Node.js, MongoDB |
+
 
 
 
