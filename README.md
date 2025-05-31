@@ -90,14 +90,6 @@ Soy estudiante de **Ingeniería en Software** con una fuerte pasión por desarro
 
 ---
 
-## 📊 Actividad de Desarrollo
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Kaisitop&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 💡 ¿Colaboramos?
 
 Estoy siempre abierto a nuevas oportunidades y colaboraciones interesantes. Si tienes una idea de proyecto o simplemente quieres conectar, ¡no dudes en contactarme!
