@@ -19,10 +19,10 @@
 Soy estudiante de **Ingeniería en Software** con una fuerte pasión por desarrollar soluciones **eficientes**, **escalables** y con un diseño limpio. Me especializo en el desarrollo web fullstack, utilizando tecnologías modernas y buenas prácticas de programación.
 
 ### 🎯 Actualmente enfocado en:
-- 💻 Desarrollo web fullstack con Django y React
-- 🏗️ Arquitecturas escalables y patrones de diseño
-- 📱 Aplicaciones responsive y experiencia de usuario
-- 🔐 Sistemas de autenticación y seguridad
+- 🐍 **Python & Django**: Desarrollo de APIs robustas y aplicaciones web escalables
+- ⚛️ **React & JavaScript**: Creación de interfaces modernas y experiencias de usuario fluidas
+- 🗄️ **PostgreSQL & MongoDB**: Diseño de bases de datos eficientes y optimización de consultas
+- 🎨 **TailwindCSS**: Desarrollo de interfaces responsive con diseño limpio y moderno
 
 ---
 
@@ -61,15 +61,6 @@ Soy estudiante de **Ingeniería en Software** con una fuerte pasión por desarro
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaisitop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaisitop&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 ### 🔥 Proyectos Principales
@@ -98,7 +89,6 @@ Soy estudiante de **Ingeniería en Software** con una fuerte pasión por desarro
 </details>
 
 ---
-
 
 ## 📊 Actividad de Desarrollo
 
